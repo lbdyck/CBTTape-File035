@@ -1,6 +1,6 @@
-```
 ### CBT File Mirror Information
 <details closed><summary>Click to Expand (or Close)</summary>
+```
 This CBTTAPE File was converted from the CBTTAPE distribution format
 so that it could be mirrored for access using GitHub. This is a partially
 automated process with some manual adjustments as required by each
@@ -49,7 +49,9 @@ an appropriate suffix in lower case
 Manual (using ZIGI):
 1. ZIGI now performs the Git Add, Commit, and Push to the GitHub
 repository.
+```
 </details>
+```
 
 --------------------------------------------------------------------------------
 //***FILE 035 is a Load Module library with useful programs in it.  *   FILE 035
