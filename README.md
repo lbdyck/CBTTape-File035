@@ -1,5 +1,6 @@
 ### CBT File Mirror Information
 <details closed><summary>Click to Expand (or Close)</summary>
+  
 ```
 This CBTTAPE File was converted from the CBTTAPE distribution format
 so that it could be mirrored for access using GitHub. This is a partially
@@ -50,7 +51,11 @@ Manual (using ZIGI):
 1. ZIGI now performs the Git Add, Commit, and Push to the GitHub
 repository.
 ```
+  
 </details>
+
+### CBT File035 Information
+
 ```
 
 --------------------------------------------------------------------------------
